@@ -1,0 +1,29 @@
+/*
+element selector
+p{
+  proparty: value;
+}
+  */
+p{
+  font-family: "time new roman",'Times New Roman', Times, serif;
+  font-size:20px;
+  font-weight: bold;
+
+  text-align: right;
+  color: rgb(186, 15, 149);
+  letter-spacing: 0.05em;
+  text-align: left;}
+  
+h2{
+  font-size: large;
+  color: brown;
+}
+/*
+id is unique within the page
+*/
+#p1{
+  color: chocolate;
+}
+.prod{
+  color: rgb(52, 4, 99);
+}
